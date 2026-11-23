@@ -1,0 +1,12 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.tanmaybohra.nekomachi",
+      "sha256_cert_fingerprints": [
+        "CD:54:00:E9:CE:75:9B:F8:BE:51:EC:5C:FA:E2:D3:E6:99:1A:AD:14:E7:DA:C5:B9:25:15:D8:38:50:09:C9:2A"
+      ]
+    }
+  }
+]
