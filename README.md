@@ -27,3 +27,7 @@ python -m http.server 8080      # then open http://localhost:8080
 ## Controls
 
 Swipe (or use the arrow keys) to change lanes. Ultra / High / Low graphics settings for slower phones.
+
+## License
+
+MIT, see [LICENSE](LICENSE). Bundled Three.js files in `vendor/` keep their own MIT license; sounds and music in `audio/` are CC0 (see `audio/CREDITS.md`).
